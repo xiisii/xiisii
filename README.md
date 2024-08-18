@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=xiisii" alt="Profile views" style="display: inline-block; vertical-align: middle;">
 </div>
 
-<h3><b> 
+<h4><b> 
   
-- Engineer Degree in Embedded Systems and Internet of Things [HCMC University of Technology and Education]((https://hcmute.edu.vn/)) (HCMUTE). 
+- Engineer Degree in Embedded Systems and Internet of Things [HCMC University of Technology and Education]([https://hcmute.edu.vn/]) (HCMUTE). 
 
 <h2 align="left"> 📫 How to reach me:</h2>
 
