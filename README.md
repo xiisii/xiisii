@@ -7,9 +7,7 @@
 
 <h3><b> 
   
-- ✍  I'm a student of: [Da Nang University of Science and Technology](http://dut.udn.vn/) (DUT). 
-
-- 🌱 I’m currently **Third Year**
+- Engineer Degree in Embedded Systems and Internet of Things [HCMC University of Technology and Education]((https://hcmute.edu.vn/)) (HCMUTE). 
 
 <h2 align="left"> 📫 How to reach me:</h2>
 
