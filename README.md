@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hoang Long</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Dang Mai Thy</h1>
 <div align="center">
-  <h2 >A passionate developer from Vietnam
-  <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" alt="Vietnam flag" style="height: 48px; width: 48px; display: inline-block; vertical-align: middle; margin-right: 10px;"></h2>
+  <h2 >A passionate Artificial Intelligence researcher from Vietnam
+  <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" alt="Vietnam flag" style="height: 24px; width: 24px; display: inline-block; vertical-align: middle; margin-right: 10px;"></h2>
   <img src="https://komarev.com/ghpvc/?username=longtch" alt="Profile views" style="display: inline-block; vertical-align: middle;">
 </div>
 
