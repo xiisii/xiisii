@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png" height="40" width="40"/>
   </a>
 </p>
-<p><img align="right" src="src="https://giphy.com/embed/ule4vhcY1xEKQ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactionseditor-cat-typing-ule4vhcY1xEKQ" alt="adam-pw" /></p>
+<p><img align="right" src="https://giphy.com/embed/ule4vhcY1xEKQ" alt="adam-pw" /></p>
 
 💻 Software and Tools
 --
