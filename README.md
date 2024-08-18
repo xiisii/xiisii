@@ -7,7 +7,7 @@
 
 <h4><b> 
   
-- Engineer Degree in Embedded Systems and Internet of Things [HCMC University of Technology and Education]([https://hcmute.edu.vn/]) (HCMUTE). 
+- Engineer Degree in Embedded Systems and Internet of Things [HCMC University of Technology and Education](https://hcmute.edu.vn/) (HCMUTE). 
 
 <h2 align="left"> 📫 How to reach me:</h2>
 
