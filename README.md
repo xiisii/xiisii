@@ -10,7 +10,7 @@
 - Engineer Degree in Embedded Systems and Internet of Things [HCMC University of Technology and Education](https://hcmute.edu.vn/) (HCMUTE). 
 
 <h2 align="left"> 📫 How to reach me:</h2>
-<p><img align="right" src="https://github.com/xiisii/xiisii/blob/main/giphy.gif" width="384" height="384" alt="xiisii" /></p>
+<p><img align="right" src="https://github.com/xiisii/xiisii/blob/main/giphy.gif" width="400" height="400" alt="xiisii" /></p>
 <p align="left">
   <a href="https://www.facebook.com/xiisii/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" height="40" width="40"/>
