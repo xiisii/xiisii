@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png" height="40" width="40"/>
   </a>
 </p>
-<p><img align="right" src="https://giphy.com/embed/ule4vhcY1xEKQ">via GIPHY</a></p>
+<p><img align="right" src="https://giphy.com/embed/ule4vhcY1xEKQ"></p>
 
 💻 Software and Tools
 --
