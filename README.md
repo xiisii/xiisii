@@ -37,13 +37,6 @@ https://github-readme-activity-graph-alpha-silk.vercel.app/graph?username=xiisii
 [![Ashutosh's github activity graph](https://github-readme-activity-graph-alpha-silk.vercel.app/graph?username=xiisii&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
-Account Stats | Most used Techs So far
-:---: | :---:
-![General stats](https://github-readme-stats-delta-livid-40.vercel.app/api?username=xiisii&&show_icons=true&theme=dracula&hide_border=true) | ![Most Used Techs](https://github-readme-stats-delta-livid-40.vercel.app/api/top-langs/?username=xiisii&theme=dracula&layout=compact)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xiisii&theme=dracula" style="margin: auto; display: block; width: 70%"/>
-
-
 ### 💻 Profile Stats
 
 <img alt="XiiSii's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=xiisii&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="XiiSii's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiisii&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
