@@ -35,6 +35,10 @@
     <a href="https://github.com/xiisii"><img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white"></a>
 </p>
 
+### 🔥 Streak Stats
+
+![XiiSii's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=xiisii&theme=tokyonight)
+
 ## 📈 My GitHub Stats and Activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiisii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
@@ -43,9 +47,7 @@
 
 <img alt="XiiSii's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=xiisii&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="XiiSii's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiisii&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-### 🔥 Streak Stats
 
-![XiiSii's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=xiisii&theme=tokyonight)
 
 
 
