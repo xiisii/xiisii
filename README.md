@@ -11,7 +11,7 @@
 
 
 <h2 align="left"> 📫 How to reach me:</h2>
-<p><img align="right" src="https://github.com/xiisii/xiisii/blob/main/giphy.gif" width="380" height="380" alt="xiisii" /></p>
+<p><img align="right" src="https://github.com/xiisii/xiisii/blob/main/giphy.gif" width="340" height="340" alt="xiisii" /></p>
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100089811121454" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" height="40" width="40"/>
