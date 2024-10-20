@@ -32,8 +32,7 @@
 </p>
 
 ## 📈 My GitHub Stats and Activity
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-alpha-silk.vercel.app/graph?username=xiisii&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiisii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br>
 
 ### 💻 Profile Stats
