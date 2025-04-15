@@ -8,7 +8,7 @@
 <h4><b> 
   
 - Engineer Degree in Embedded Systems and Internet of Things [HCMC University of Technology and Education](https://hcmute.edu.vn/) (HCMUTE). 
-
+- Master Degree in Computer Science [HCMC University of Technology](https://hcmut.edu.vn/) (HCMUT). 
 
 <h2 align="left"> 📫 How to reach me:</h2>
 <p><img align="right" src="https://github.com/xiisii/xiisii/blob/main/giphy.gif" width="340" height="340" alt="xiisii" /></p>
